@@ -1,5 +1,5 @@
 # 2022-Spring-Natural-Language-Processing-and-Practice
-# Natural Language Processing and Practice -- 2021 Fall
+# Natural Language Processing and Practice -- 2022 Spring
 
 Time: **Saturday**
 
